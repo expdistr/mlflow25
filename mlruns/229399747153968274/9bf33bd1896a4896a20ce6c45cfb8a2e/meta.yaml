@@ -1,0 +1,14 @@
+artifact_uri: file:///mlflow/mlruns/229399747153968274/9bf33bd1896a4896a20ce6c45cfb8a2e/artifacts
+end_time: 1747945736541
+entry_point_name: ''
+experiment_id: '229399747153968274'
+lifecycle_stage: active
+run_id: 9bf33bd1896a4896a20ce6c45cfb8a2e
+run_name: funny-hog-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747945723428
+status: 3
+tags: []
+user_id: ladaa
